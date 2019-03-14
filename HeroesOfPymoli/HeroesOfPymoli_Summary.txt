@@ -1,0 +1,10 @@
+Heroes of Pymoli Data Analysis Summary:
+1. The profit is mainly driven by male players in this game because majority of the players are male. 
+However, female players are willing to spend more on average on in-game purchase item than male players.
+
+2. Majority of the profits are coming from age groups 20 - 24 for this game, which account for 44.79% of
+the users in the game.  They are also one of the highest age group in purchase per person. 
+
+3. Item ID 178 is the most purchase item in the game and it's also the most profitable item.  Also, there 
+are other items even not the must purchased, but still rank the top five profitable items, such as Item ID
+92 and 103.  
